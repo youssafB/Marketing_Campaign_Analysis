@@ -59,11 +59,5 @@ This case study analyzes **365 days of campaign data (2019)** to answer:
 - Increase spend during **low CPC months (May, Nov)**.  
 - Use regression models for **budget planning**.  
 
----
 
-## 🚀 Next Steps  
-
-- Develop a **dashboard (Streamlit / Power BI)** for real-time monitoring.  
-- Extend analysis to other platforms (Instagram, LinkedIn, TikTok).  
-- Apply advanced ML models (Random Forest, Prophet, LSTMs).  
 
